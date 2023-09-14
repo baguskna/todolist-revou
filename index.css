@@ -6,3 +6,9 @@
 .check {
   text-decoration: line-through;
 }
+
+.wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
